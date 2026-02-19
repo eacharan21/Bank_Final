@@ -1,13 +1,65 @@
-# Portugese Banking Campaign Dataset Final
+# 🏦 Bank Marketing Campaign Prediction – Machine Learning
 
-Completed this project as part of my Data Science and Machine Learning Internship with United Network of Professionals (UNP). 
+![Python](https://img.shields.io/badge/Python-ML-blue)
+![Classification](https://img.shields.io/badge/Task-Classification-orange)
+![Status](https://img.shields.io/badge/Project-Completed-success)
 
-Key Highlights:
-  * Studied and performed analysis the Banking dataset to applying ML models and present my insights.
-  * Performed various Exploratory Data Analysis to understand the data and know the relationship between the variables.
-  * Experimented with different Machine Learning algorithms like Logistic Regression, KNN, SVM, Bagging, Boosting, Decision Tree, Random Forest, Neural Networks.
-  * Compared the results to recommend the best Machine Learning model.
+## 📌 Project Overview
+This project focuses on predicting customer subscription to a bank marketing campaign using Machine Learning techniques.
 
-COLAB NOTEBOOK LINK: https://colab.research.google.com/github/eacharan21/Bank_Final/blob/main/Bank_Final.ipynb
+Completed as part of the **Data Science & Machine Learning Internship** at United Network of Professionals (UNP).
 
-PROJECT PRESENTATION LINK: https://drive.google.com/file/d/1C-tQASmhtgDRaqKb_56P-wDNqpDm96p6/view?usp=share_link
+---
+
+## 🎯 Objectives
+- Perform Exploratory Data Analysis (EDA)
+- Understand customer behavior patterns
+- Train multiple classification models
+- Compare performance metrics
+- Identify the best predictive model
+
+---
+
+## 🧠 Models Implemented
+- Logistic Regression
+- K-Nearest Neighbours (KNN)
+- Support Vector Machine (SVM)
+- Decision Tree
+- Random Forest
+- Bagging & Boosting
+- Neural Networks
+
+---
+
+## 📊 Machine Learning Workflow
+1. Data Cleaning & Preprocessing  
+2. Feature Engineering  
+3. Model Training  
+4. Model Evaluation  
+5. Performance Comparison  
+
+---
+
+## 📂 Repository Structure
+
+```
+Bank_Final
+│
+├── Bank_Final.ipynb
+└── README.md
+```
+
+---
+
+
+## 📈 Key Highlights
+✔ Internship-based real-world dataset  
+✔ Multiple model experimentation  
+✔ Business-focused classification problem  
+✔ Data visualization & insights
+
+---
+
+## 👨‍💻 Author
+**Aditya Charan Eranki**  
+Machine Learning | Data Analytics | Data Science Enthusiast
