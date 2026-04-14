@@ -38,8 +38,6 @@ The repository demonstrates an end-to-end machine learning workflow including da
 ---
 
 ## 🤖 Models Implemented
-
-* Logistic Regression (RFE Selection)
 * Logistic Regression (All Features)
 * Support Vector Machine (SVM)
 * K-Nearest Neighbours (KNN)
