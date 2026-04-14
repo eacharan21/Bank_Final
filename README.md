@@ -110,17 +110,6 @@ Open notebook:
 
 ```
 Bank_Final.ipynb
-```
-
----
-
-## 📈 Key Highlights
-
-✔ Real-world internship dataset
-✔ Feature Selection using RFE
-✔ SMOTE for class imbalance handling
-✔ Ensemble learning & deep learning models
-✔ Comparative performance evaluation
 
 ---
 
